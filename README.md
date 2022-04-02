@@ -1,6 +1,6 @@
 # RsSchool front-end development courses. JavaScript tasks.
 
-# Codewars1-2021Q3
+# Codewars1-2022Q1
 
 ## Numbers, strings
 
